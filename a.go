@@ -1,7 +1,2 @@
+// Package antiloop has no loops.
 package antiloop
-
-import "hkjn.me/loopy"
-
-func A() string {
-	return "hello from antiloop.A!"
-}
